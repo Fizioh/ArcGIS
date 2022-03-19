@@ -1,0 +1,15 @@
+{
+  "env": {
+    "prod": {
+      "portalUrl": "https://www.arcgis.com",
+      "clientId": "experienceBuilder"
+    }
+  },
+  "devEnv": {
+    "prod": {
+      "portalUrl": "https://ficab9vg34squmxp.maps.arcgis.com",
+      "clientId": "h1OE2tUH9A9IT33f",
+      "isWebTier": false
+    }
+  }
+}

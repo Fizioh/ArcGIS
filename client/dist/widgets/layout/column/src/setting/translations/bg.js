@@ -1,0 +1,1 @@
+define({verticalAlign:"Вертикално подравняване",start:"Начало",end:"Край",spaceAround:"Пространство наоколо",spaceBetween:"Пространство между",spaceEvenly:"Равномерно пространство",horizontalAlign:"Хоризонтално подравняване",scrollable:"С възможност за превъртане"});
